@@ -1,11 +1,12 @@
-# DSA-Project-Amazon-Case-study-
-Amazon Product Review Analysis using Excel
+# DSA Project Documentation (Amazon Case study)
+
+## Project Topic: Amazon Product Review Analysis
 
 ## Project Description
 You are working as a Junior Data Analyst at RetailTech Insights, a company that provides
 e-commerce analytics solutions to sellers on platforms like Amazon. Have been
 tasked with analysing product and customer review data to generate insights that can
-guide product improvement, marketing strategies, and customer engagement.
+guide product improvement, marketing strategies, and customer engagement using Excel.
 
 ## Dataset Description
 The dataset contains information scraped from Amazon product pages, including:
@@ -40,3 +41,18 @@ Use pivot tables and calculated columns where necessary to answer the following:
 12. How many products have fewer than 1,000 reviews?
 13. Which categories have products with the highest discounts?
 14. Identify the top 5 products in terms of rating and number of reviews combined.
+15. Dashboard Creation: Using your cleaned dataset and pivot outputs, build an Excel dashboard. Unleash your
+Creativit
+
+## Data Sources: DSA Team
+
+## Tool used
+
+Excel [Download here](https://www.microsoft.com)
+
+## Procedure
+1. Data cleaning
+2. Data formatting
+3. Creating calculated columns
+4. Creating of Pivot tables
+5. Creating of Dashboard

@@ -44,7 +44,8 @@ Use pivot tables and calculated columns where necessary to answer the following:
 15. Dashboard Creation: Using your cleaned dataset and pivot outputs, build an Excel dashboard. Unleash your
 Creativit
 
-## Data Sources: DSA Team
+## Data Sources
+DSA Team
 
 ## Tool used
 
@@ -56,3 +57,5 @@ Excel [Download here](https://www.microsoft.com)
 3. Creating calculated columns
 4. Creating of Pivot tables
 5. Creating of Dashboard
+
+##Pictorial Result

@@ -58,4 +58,20 @@ Excel [Download here](https://www.microsoft.com)
 4. Creating of Pivot tables
 5. Creating of Dashboard
 
-##Pictorial Result
+## Pictorial Result
+![Amazon Dashboard](https://github.com/user-attachments/assets/4f79e765-9028-4657-ab90-3b0f1046ab1d)
+![Amazon Pivot Table](https://github.com/user-attachments/assets/7679e516-43aa-4832-9d94-48f58f49620f)
+![Amazon Dataset](https://github.com/user-attachments/assets/880e9849-3b89-41ac-a45b-43765e1ee35e)
+## Work File
+[DSA Amazon Project.xlsx](https://github.com/user-attachments/files/21068272/DSA.Amazon.Project.xlsx)
+
+## Project Insight
+Electronic has the highest number of product under it, also the highest product category with the highest revenue, while Toys and Game has the lowest product and also the lowest revenue. 
+
+Home Improvement is the Category with the highest discount rate, while Toys and Game is the lowest.
+
+Amazon Total Revenue is $7,688,779.6 while the total number of reviews are 4,609,116, which imples that the customers are really giving their feedbacks on products. 
+
+## Recommendation
+The company should look into product category with lower revenue like Toys and Game and consider a market stratagy like more discount rate on some of the product in the category. 
+
